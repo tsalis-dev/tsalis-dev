@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨 About Me
 
 - I’m currently learning **advanced JavaScript and exploring web animations**.
 - I’m looking to collaborate on **beginner-friendly open-source projects**.
@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Languages and Tools
+### - Languages and Tools
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -29,7 +29,7 @@
 
 ---
 
-###📊 My GitHub Stats
+### - My GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsalis-dev&show_icons=true&locale=en&theme=tokyonight" alt="tsalis-dev" />
