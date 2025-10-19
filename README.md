@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **advanced JavaScript and exploring web animations**.
-- 👯 I’m looking to collaborate on **beginner-friendly open-source projects**.
-- 💬 Ask me about **HTML, CSS, Git, and getting started with web development**.
-- 📫 How to reach me: **[sholehalakbar11@gmail.com](mailto:sholehalakbar11@gmail.com)**
-- ⚡ Fun fact: I believe a good website is a perfect blend of art and logic.
+- I’m currently learning **advanced JavaScript and exploring web animations**.
+- I’m looking to collaborate on **beginner-friendly open-source projects**.
+- Ask me about **HTML, CSS, Git, and getting started with web development**.
+- How to reach me: **[sholehalakbar11@gmail.com](mailto:sholehalakbar11@gmail.com)**
+- Fun fact: I believe a good website is a perfect blend of art and logic.
 
 ---
 
